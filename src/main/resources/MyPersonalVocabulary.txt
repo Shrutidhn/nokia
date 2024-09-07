@@ -1,0 +1,9 @@
+cat:a domesticated animal
+city:a large town.
+computer:an electronic device for storing and processing data
+elephant:big animal
+home:sweet place where we live
+keyboard:computer input device
+laptop:device
+lion:King of forest
+mango:delicious froot
